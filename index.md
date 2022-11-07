@@ -6,7 +6,7 @@ I am a post-doc at the department of Education and Psychology at Freie Universit
 
 My research focuses on the temporal dynamics of neural activity underlying cognition. At the core of my interest is the question of semantic representation: how people understand the meaning in the text and what is the temporal dynamics behind that. I use EEG recordings, multivariate analysis methods (temporal response function, TRF; canonical correlation analysis, CCA) and natural language processing (NLP) methods in my research.
 
-Please refer to my [CV](https://drive.google.com/file/d/16-oF7vHvwfIm2eSCZBoRfGsQN78LTG5G/view?usp=sharing) for further information.
+Please refer to my [CV](https://drive.google.com/file/d/1IF1nrwXWi3whtTyiRSv0Sy41s3cCeVIa/view?usp=sharing) for further information.
 
 
 # Current Project
