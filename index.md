@@ -4,97 +4,31 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [Link to another page](./https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My research focuses on the temporal dynamics of neural activity underlying cognition. At the core of my interest is the question of semantic representation: how people understand the meaning in the text and what is the temporal dynamics behind that. I use EEG recordings, multivariate analysis methods (temporal response function, TRF; canonical correlation analysis, CCA) and natural language processing (NLP) methods in my research.
+I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [my lab page entry](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Assoc.Prof.Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
+My research focuses on the temporal dynamics of neural activity underlying cognition. At the core of my interest is the question of semantic representation: how people understand the meaning in the text and what is the temporal dynamics behind that. I use EEG recordings, multivariate analysis methods (temporal response function, TRF; canonical correlation analysis, CCA) and natural language processing (NLP) methods in my research.
+
+
+# Current Project
+
+I am currently working with [Prof.Dr.Cichy](http://userpage.fu-berlin.de/rmcichy/).
+
+When you were a child, your caregivers may have read you stories before you went to bed. The adult was reading the story, and you as the child were listening. While the sensory input for you and the caregiver was different (visual vs. auditory), you and the storyteller would have arrived at a related comprehension of the story. It means that our brain could extract similar meaning albeit from different modalities.
+
+This is fascinating - how does our brain translate the information received from different modalities (visual vs. auditory) into similar comprehension and what are the neural mechanisms behind that? This question forms the core of my scientific interest. To answer it, I use the high temporal resolution EEG-recording methods, as well as the encoding models and deep neural networks.
 
 # Publication
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+(#: co-first author, *: corresponding author)
 
 ## Preprint
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2022). Strike different neural notes at distinct stages: An integrative process of attention modulation in naturalistic speech. bioRxiv.https://www.biorxiv.org/content/10.1101/2022.10.02.510499v1
 
-## 2022 and before
+## Peer Reviewed Publication
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2022). Preparatory delta phase response is correlated with naturalistic speech comprehension performance. Cognitive Neurodynamics, 16, 337–352. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+ Li, Z. #,**Li, J.#**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2021). Speaker-listener neural coupling reveals an adaptive mechanism for speech comprehension in a noisy environment. Cerebral Cortex, 31(10), 4719-4729.
 
 
