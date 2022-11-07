@@ -4,23 +4,20 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [Link to another page](./https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My research focuses on the temporal dynamics of neural activity underlying cognition. At the core of my interest is the question of semantic representation: how people understand the meaning in the text and what is the temporal dynamics behind that. I use EEG recordings, multivariate analysis methods (temporal response function, TRF; canonical correlation analysis, CCA) and natural language processing (NLP) methods in my research.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Publication
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Preprint
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## 2022 and before
 
 ```js
 // Javascript code with syntax highlighting.
@@ -101,23 +98,3 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
