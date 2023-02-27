@@ -4,7 +4,7 @@ layout: default
 
 I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [my lab page entry](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Assoc.Prof.Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
-My research focuses on the temporal dynamics of neural activity underlying cognition. At the core of my interest is the question of semantic representation: how people understand the meaning in the text and what is the temporal dynamics behind that. I use EEG recordings, multivariate analysis methods (temporal response function, TRF; canonical correlation analysis, CCA) and natural language processing (NLP) methods in my research.
+The relationship between the language and the thoughts intrigues me a lot. I use a neuroscience approach to investigate this question.
 
 Please refer to my [CV](https://drive.google.com/file/d/1IF1nrwXWi3whtTyiRSv0Sy41s3cCeVIa/view?usp=sharing) for further information.
 
