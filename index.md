@@ -29,7 +29,9 @@ This is fascinating - how does our brain translate the information received from
 
 ## Preprint
 
-**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2022). Strike different neural notes at distinct stages: An integrative process of attention modulation in naturalistic speech. bioRxiv.https://www.biorxiv.org/content/10.1101/2022.10.02.510499v1
+**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2022). Strike different neural notes at distinct stages: An integrative process of attention modulation in naturalistic speech. _bioRxiv_.
+
+Zhang, X., **Li, J.**, Li, Z., HONG, B., Diao, T., Ma, X., ... & Zhang, D. (2023). Leading and Following: Noise Differently Affects Semantic and Acoustic Processing during Naturalistic Speech Comprehension. _bioRxiv_.
 
 ## Peer Reviewed Publication
 
