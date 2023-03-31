@@ -2,12 +2,15 @@
 layout: default
 ---
 
-I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [my lab page entry](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Assoc.Prof.Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
+I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [my lab page entry](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I am founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
+
+I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Assoc.Prof.Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
 The relationship between the language and the thoughts intrigues me a lot. I use a neuroscience approach to investigate this question.
 
 Please refer to my [CV](https://drive.google.com/file/d/1IF1nrwXWi3whtTyiRSv0Sy41s3cCeVIa/view?usp=sharing) for further information.
 
+Besides science, I love running and different types of music (from classical to techno). I am also addicted to German literature and am currently trying to learn some German.
 
 # Current Project
 
