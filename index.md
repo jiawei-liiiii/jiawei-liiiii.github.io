@@ -6,7 +6,7 @@ I am a post-doc at the department of Education and Psychology at Freie Universit
 
 I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Assoc.Prof.Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
-The relationship between the language and the thoughts intrigues me a lot. I use a neuroscience approach to investigate this question.
+The relationship between the language and the thoughts intrigues me a lot. This inspiration can be traced back to [Wilhelm von Humboldt](https://www.hu-berlin.de/en/about/history/wilh_html), a renowned German scholar. I use a neuroscience approach to investigate this question.
 
 Please refer to my [CV](https://drive.google.com/file/d/1IF1nrwXWi3whtTyiRSv0Sy41s3cCeVIa/view?usp=sharing) for further information.
 
