@@ -10,7 +10,7 @@ The relationship between the language and the thoughts intrigues me a lot. This 
 
 Please refer to my [CV](https://drive.google.com/file/d/1-xor0yx7hKx_-5A88VRJm2hViNvTS4fX/view?usp=sharing) for further information.
 
-In addition to science, I enjoy running and listening to various types of music, from classical to techno. I am a former saber fencer who once was a second-runner[https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A] in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
+In addition to science, I enjoy running and listening to various types of music, from classical to techno. I am a former saber fencer who once was a [second-runner](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
 
 # Current Project
 
