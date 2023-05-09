@@ -4,13 +4,13 @@ layout: default
 
 I am a post-doc at the department of Education and Psychology at Freie Universität Berlin. Here is [my lab page entry](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/post_docs/Jiawei-Li/index.html). I am founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 
-I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Assoc.Prof.Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
+I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022. My supervisor is [Dr.Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
 The relationship between the language and the thoughts intrigues me a lot. This inspiration can be traced back to [Wilhelm von Humboldt](https://www.hu-berlin.de/en/about/history/wilh_html), a renowned German scholar. I use a neuroscience approach to investigate this question.
 
-Please refer to my [CV](https://drive.google.com/file/d/1-xor0yx7hKx_-5A88VRJm2hViNvTS4fX/view?usp=sharing) for further information.
+Please refer to my [CV](https://drive.google.com/file/d/1Gi_wf9ZKi09OH3A8smydYJrABUDYFzO9/view?usp=sharing) for further information.
 
-In addition to science, I enjoy running and listening to various types of music, from classical to techno. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
+In addition to science, I enjoy running and listening to various types of music, especially progressive rock. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
 
 # Current Project
 
