@@ -27,13 +27,12 @@ This is fascinating - how does our brain translate the information received from
 
 (#: co-first author, *: corresponding author)
 
-## Preprint
-
-**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2022). Strike different neural notes at distinct stages: An integrative process of attention modulation in naturalistic speech. _bioRxiv_.
-
-Zhang, X., **Li, J.**, Li, Z., HONG, B., Diao, T., Ma, X., ... & Zhang, D. (2023). Leading and Following: Noise Differently Affects Semantic and Acoustic Processing during Naturalistic Speech Comprehension. _bioRxiv_.
 
 ## Peer Reviewed Publication
+
+**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2023).EEG-based speaker–listener neural coupling reflectsspeech-selective attentional mechanisms beyond the speech stimulus. _Cerebral Cortex_.
+
+Zhang, X., **Li, J.**, Li, Z., HONG, B., Diao, T., Ma, X., ... & Zhang, D. (2023). Leading and Following: Noise Differently Affects Semantic and Acoustic Processing during Naturalistic Speech Comprehension. _NeuroImage_.
 
 **Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2022). Preparatory delta phase response is correlated with naturalistic speech comprehension performance. _Cognitive Neurodynamics, 16_(2), 337–352. 
 
