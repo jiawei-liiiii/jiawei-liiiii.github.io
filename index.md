@@ -8,7 +8,7 @@ I received my Ph.D. degree at the Department of Psychology, Tsinghua University 
 
 The relationship between **the language and the thoughts** intrigues me a lot. This inspiration can be traced back to [Wilhelm von Humboldt](https://www.hu-berlin.de/en/about/history/wilh_html), a renowned German scholar. I first read Humboldt's (and a lot of other German scholars') books when I was at Hangzhou Foreign Languages School (a high school). I once considered studying literature to convey language studies. However, I now use a neuroscience approach, combining it with computational models, to investigate this question. Life is like a box of chocolates.
 
-Please refer to my [CV](https://drive.google.com/file/d/1Yyk6CYIExn6Jys8v9KFVx1ONrUQFUpR1/view?usp=share_link) for further information.
+Please refer to my [CV](https://drive.google.com/file/d/19Fkm_kI5d1y65GGLhEaOTu9OYwy5MheS/view?usp=drive_link) for further information.
 
 In addition to science, I enjoy running and listening to various types of music, especially progressive rock. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
 
