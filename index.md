@@ -14,8 +14,8 @@ In addition to science, I enjoy running and listening to various types of music,
 
 # Current Project
 
-I am currently working with [Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/) and investgatng the **cross-modality semantic representations**.
-So, what is cross-modality semantic representation? Imagine when you were a child, your caregivers may have read you stories before you went to bed. The adult was reading the story, and you as the child were listening. While the sensory input for you and the caregiver was different (visual vs. auditory), you and the storyteller would have arrived at a related comprehension of the story. It means that our brain could extract similar meaning albeit from different modalities. This is fascinating - how does our brain translate the information received from different modalities (visual vs. auditory) into similar comprehension and what are the neural mechanisms behind that? This question forms the core of my scientific interest. To answer it, I use the high temporal resolution EEG-recording methods, as well as the encoding models and deep neural networks.
+I am currently working with [Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/) and investigating the **cross-modality semantic representations**.
+So, what is cross-modality semantic representation? Imagine when you were a child, your caregivers may have read stories before you went to bed. The adult was reading the story, and you as the child were listening. While the sensory input for you and the caregiver was different (visual vs. auditory), you and the storyteller would have arrived at a related comprehension of the story. It means that our brain could extract similar meaning albeit from different modalities. This is fascinating - how does our brain translate the information received from different modalities (visual vs. auditory) into similar comprehension and what are the neural mechanisms behind that? This question forms the core of my scientific interest. To answer it, I use the high temporal resolution EEG-recording methods, as well as the encoding models and deep neural networks.
 
 
 # Publication
