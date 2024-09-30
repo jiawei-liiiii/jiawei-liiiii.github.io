@@ -10,7 +10,7 @@ The relationship between **the language and the thoughts** intrigues me a lot. T
 
 Please refer to my [CV](https://drive.google.com/file/d/1q8rVDdEQiaZEGVzUuOmvELe3vJugo1SN/view?usp=drive_link) for further information.
 
-In addition to science, I enjoy running and listening to various types of music, especially progressive rock. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
+
 
 # Current Project
 
@@ -37,3 +37,5 @@ Ding, Y., Hu, X., **Li, J.**, Ye, J., Wang, F., & Zhang, D. (2018). What makes a
 
 张丹, & **李佳蔚**. (2017). 探索思维的力量: 脑机接口研究现状与展望. _科技导报, 35_(9), 62-67.
 
+# Random facts
+In addition to science, I enjoy running and listening to various types of music, especially progressive rock. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. Currently, I am addicted to German literature and am trying to learn some German.
