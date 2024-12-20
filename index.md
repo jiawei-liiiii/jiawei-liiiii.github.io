@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin. I am founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
+I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin. I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 
 I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
