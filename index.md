@@ -8,7 +8,7 @@ I received my Ph.D. degree at the Department of Psychology, Tsinghua University 
 
 The relationship between **the language and the thoughts** intrigues me a lot. This inspiration can be traced back to [Wilhelm von Humboldt](https://www.hu-berlin.de/en/about/history/wilh_html), a renowned German scholar. I first read Humboldt's (and a lot of other German scholars') books when I was at Hangzhou Foreign Languages School (a high school). I once considered studying literature to convey language studies. However, I now use a neuroscience approach, combining it with computational models, to investigate this question. Life is like a box of chocolates.
 
-Please refer to my [CV](https://drive.google.com/file/d/1q8rVDdEQiaZEGVzUuOmvELe3vJugo1SN/view?usp=drive_link) for further information.
+Please refer to my [CV](https://drive.google.com/file/d/1-m1QF31a6WVuQWD3239k4yRbahOOMG2a/view?usp=sharing) for further information.
 
 
 
