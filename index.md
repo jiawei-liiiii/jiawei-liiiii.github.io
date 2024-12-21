@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin. I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
+I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin. 
 
 I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
@@ -39,3 +39,5 @@ Ding, Y., Hu, X., **Li, J.**, Ye, J., Wang, F., & Zhang, D. (2018). What makes a
 
 # Random facts
 In addition to science, I enjoy running and listening to various types of music, especially progressive rock. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin. I like learning German, but I am still struggling with it.
+
+I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024.
