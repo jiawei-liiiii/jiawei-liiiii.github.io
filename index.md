@@ -6,7 +6,7 @@ I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy
 
 I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.psych.tsinghua.edu.cn/info/1180/1431.htm). 
 
-The relationship between **the language and the thoughts** intrigues me a lot. This inspiration can be traced back to [Wilhelm von Humboldt](https://www.hu-berlin.de/en/about/history/wilh_html), a renowned German scholar. I first read Humboldt's (and a lot of other German scholars') books when I was at Hangzhou Foreign Languages School (a high school). I once considered studying literature to convey language studies. However, I now use a neuroscience approach, combining it with computational models, to investigate this question. Life is like a box of chocolates.
+The relationship between **the language and the thoughts** intrigues me a lot. I use a neuroscience approach, combining it with computational models, to investigate this question.
 
 Please refer to my [CV](https://drive.google.com/file/d/1-m1QF31a6WVuQWD3239k4yRbahOOMG2a/view?usp=sharing) for further information.
 
