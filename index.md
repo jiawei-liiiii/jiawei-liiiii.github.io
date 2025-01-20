@@ -39,6 +39,7 @@ So, what is cross-modality semantic representation? Imagine when you were a chil
 
 # Random facts
 - I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) and have a silver medal🥈 in the national college fencing competition. 
-- I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin. 
-- Ich spreche Deutsch, aber nur auf Kindergarten-Niveau. (I speak German, but only at a kindergarten level)
-- I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024. Humbodlt is my academic role model.
+- I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin.
+- I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024. Humboldt is my academic role model.
+- Ich spreche Deutsch, aber nur auf Kindergarten-Niveau. (I speak German, but only at a kindergarten level) Wenn es möglich wäre, sprich bitte mit mir auf Deutsch. Danke im Voraus!
+
