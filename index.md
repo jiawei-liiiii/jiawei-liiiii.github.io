@@ -25,17 +25,17 @@ So, what is cross-modality semantic representation? Imagine when you were a chil
 
 ## Peer Reviewed Publication
 
-**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2023).EEG-based speaker–listener neural coupling reflectsspeech-selective attentional mechanisms beyond the speech stimulus. _Cerebral Cortex, 33_(22), 11080-11091.[【“注意力的光束”：脑际耦合在言语信息传递中的独特性】](https://mp.weixin.qq.com/s/rrzWIiDBWHkjw3qZ-xhEKA)
+- **Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2023).EEG-based speaker–listener neural coupling reflectsspeech-selective attentional mechanisms beyond the speech stimulus. _Cerebral Cortex, 33_(22), 11080-11091.[【“注意力的光束”：脑际耦合在言语信息传递中的独特性】](https://mp.weixin.qq.com/s/rrzWIiDBWHkjw3qZ-xhEKA)
 
-Zhang, X., **Li, J.**, Li, Z., HONG, B., Diao, T., Ma, X., ... & Zhang, D. (2023). Leading and Following: Noise Differently Affects Semantic and Acoustic Processing during Naturalistic Speech Comprehension. _NeuroImage_.
+- Zhang, X., **Li, J.**, Li, Z., HONG, B., Diao, T., Ma, X., ... & Zhang, D. (2023). Leading and Following: Noise Differently Affects Semantic and Acoustic Processing during Naturalistic Speech Comprehension. _NeuroImage_.
 
-**Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2022). Preparatory delta phase response is correlated with naturalistic speech comprehension performance. _Cognitive Neurodynamics, 16_(2), 337–352. 
+- **Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2022). Preparatory delta phase response is correlated with naturalistic speech comprehension performance. _Cognitive Neurodynamics, 16_(2), 337–352. 
 
-Li, Z. #,**Li, J.#**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2021). Speaker-listener neural coupling reveals an adaptive mechanism for speech comprehension in a noisy environment. _Cerebral Cortex, 31_(10), 4719-4729.
+- Li, Z. #,**Li, J.#**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2021). Speaker-listener neural coupling reveals an adaptive mechanism for speech comprehension in a noisy environment. _Cerebral Cortex, 31_(10), 4719-4729.
 
-Ding, Y., Hu, X., **Li, J.**, Ye, J., Wang, F., & Zhang, D. (2018). What makes a champion: the behavioral and neural correlates of expertise in multiplayer online battle arena games. _International Journal of Human–Computer Interaction, 34_(8), 682-694.
+- Ding, Y., Hu, X., **Li, J.**, Ye, J., Wang, F., & Zhang, D. (2018). What makes a champion: the behavioral and neural correlates of expertise in multiplayer online battle arena games. _International Journal of Human–Computer Interaction, 34_(8), 682-694.
 
-张丹, & **李佳蔚**. (2017). 探索思维的力量: 脑机接口研究现状与展望. _科技导报, 35_(9), 62-67.
+- 张丹, & **李佳蔚**. (2017). 探索思维的力量: 脑机接口研究现状与展望. _科技导报, 35_(9), 62-67.
 
 # Random facts
 - I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. 
