@@ -38,6 +38,7 @@ Ding, Y., Hu, X., **Li, J.**, Ye, J., Wang, F., & Zhang, D. (2018). What makes a
 张丹, & **李佳蔚**. (2017). 探索思维的力量: 脑机接口研究现状与展望. _科技导报, 35_(9), 62-67.
 
 # Random facts
-In addition to science, I enjoy running and listening to various types of music, especially progressive rock. I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin. I like learning German, but I am still struggling with it.
-
-I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024.
+- I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. 
+- I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin. 
+- Ich spreche Deutsch, aber nur auf Kindergarten-Niveau. (I speak German, but only at a kindergarten level)
+- I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024. Humbodlt is my academic role model.
