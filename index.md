@@ -38,7 +38,7 @@ So, what is cross-modality semantic representation? Imagine when you were a chil
 - 张丹, & **李佳蔚**. (2017). 探索思维的力量: 脑机接口研究现状与展望. _科技导报, 35_(9), 62-67.
 
 # Random facts
-- I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) who once was a second-runner in the national college fencing competition. 
+- I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) and have a silver medal🥈 in the national college fencing competition. 
 - I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin. 
 - Ich spreche Deutsch, aber nur auf Kindergarten-Niveau. (I speak German, but only at a kindergarten level)
 - I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024. Humbodlt is my academic role model.
