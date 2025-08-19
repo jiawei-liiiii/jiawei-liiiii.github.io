@@ -8,7 +8,7 @@ I received my Ph.D. degree at the Department of Psychology, Tsinghua University 
 
 The relationship between **the language and the thoughts** intrigues me a lot. I use a neuroscience approach, combining it with computational models, to investigate this question.
 
-Please refer to my [CV](https://drive.google.com/file/d/1-m1QF31a6WVuQWD3239k4yRbahOOMG2a/view?usp=sharing) for further information.
+Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2yXQxD6cKQL/view?usp=sharing) for further information.
 
 
 
