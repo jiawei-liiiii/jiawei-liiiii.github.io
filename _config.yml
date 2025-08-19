@@ -1,10 +1,14 @@
 title: Jiawei Li
 logo: /LJW_photo.png
-description: A post-doc researcher
-description: Neural Dynamics of Visual Cognition Group
-description: Department of Education and Psychology
-description: Freie Universität Berlin
-description: Email adress: jadeljw (at) gmail.com
+description:
+  - A post-doc researcher
+  - Neural Dynamics of Visual Cognition Group
+  - Department of Education and Psychology
+  - Freie Universität Berlin
+  - Email: jadeljw (at) gmail.com
+social:
+  - name: Bluesky
+    url: https://bsky.app/profile/jiaweili.bsky.social
 show_downloads: false
 $ google_analytics:
 theme: jekyll-theme-minimal
