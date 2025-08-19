@@ -6,7 +6,7 @@ I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy
 
 I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.pcs.tsinghua.edu.cn/xlxen/info/1068/1096.htm). 
 
-The relationship between **the language and the thoughts** intrigues me a lot. I use a neuroscience approach, combining it with computational models, to investigate this question.
+I am interested in language and its representations in the brain. I use a neuroscience approach, combined with computational models, to investigate this.
 
 Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2yXQxD6cKQL/view?usp=sharing) for further information.
 
