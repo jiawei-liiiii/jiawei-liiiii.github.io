@@ -23,11 +23,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-	{% comment %}
-{% if site.github.is_user_page %}
-<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-{% endif %}
-{% endcomment %}
+		{% comment %}
+		{% if site.github.is_user_page %}
+		<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+		{% endif %}
+		{% endcomment %}
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
