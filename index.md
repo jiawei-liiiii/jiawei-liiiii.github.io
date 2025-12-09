@@ -2,20 +2,13 @@
 layout: default
 ---
 
-I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin, Berlin, Germany. 
+I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin, Berlin, Germany. I am currently working with [Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/)
 
 I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.pcs.tsinghua.edu.cn/xlxen/info/1068/1096.htm). 
 
 I am interested in language and its representations in the brain. I use a neuroscience approach, combined with computational models, to investigate this.
 
 Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2yXQxD6cKQL/view?usp=sharing) for further information.
-
-
-
-# Current Project
-
-I am currently working with [Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/) and investigating the **cross-modality semantic representations**.
-So, what is cross-modality semantic representation? Imagine when you were a child, your caregivers may have read stories before you went to bed. The adult was reading the story, and you as the child were listening. While the sensory input for you and the caregiver was different (visual vs. auditory), you and the storyteller would have arrived at a related comprehension of the story. It means that our brain could extract similar meaning albeit from different modalities. This is fascinating - how does our brain translate the information received from different modalities (visual vs. auditory) into similar comprehension and what are the neural mechanisms behind that? This question forms the core of my scientific interest. To answer it, I use the high temporal resolution EEG-recording methods, as well as the encoding models and deep neural networks.
 
 
 # Publication
