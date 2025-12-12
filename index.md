@@ -33,6 +33,5 @@ Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2y
 # Random facts
 - I am a former [saber fencer](https://mp.weixin.qq.com/s/TAolUNDpR2LE_un9fbIR6A) and won a silver medal🥈 at a national college fencing competition. 
 - I finished a [marathon](https://drive.google.com/file/d/1BRhB9eklMcUYgxfX7iCYtxW7Gry1xfFr/view?usp=sharing) in Berlin.
-- I was founded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) in 2022-2024. Humboldt is my academic role model.
 - Ich spreche Deutsch, aber nur auf Kindergarten-Niveau. Könnten Sie bitte mit mir auf Deutsch sprechen, damit ich mein Deutsch verbessern kann? Danke im Voraus!
 
