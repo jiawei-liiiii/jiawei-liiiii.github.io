@@ -21,7 +21,8 @@ Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2y
 
 ## Peer-reviewed Articles
 
-- **Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2023).EEG-based speaker–listener neural coupling reflectsspeech-selective attentional mechanisms beyond the speech stimulus. _Cerebral Cortex, 33_(22), 11080-11091.[Link](https://academic.oup.com/cercor/article/33/22/11080/7299352)  *中文解读*：[【“注意力的光束”：脑际耦合在言语信息传递中的独特性】](https://mp.weixin.qq.com/s/rrzWIiDBWHkjw3qZ-xhEKA)
+- **Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D*. (2023).EEG-based speaker–listener neural coupling reflectsspeech-selective attentional mechanisms beyond the speech stimulus. _Cerebral Cortex, 33_(22), 11080-11091. [Link](https://academic.oup.com/cercor/article/33/22/11080/7299352)
+**中文解读**：[【“注意力的光束”：脑际耦合在言语信息传递中的独特性】](https://mp.weixin.qq.com/s/rrzWIiDBWHkjw3qZ-xhEKA)
 
 - Zhang, X., **Li, J.**, Li, Z., HONG, B., Diao, T., Ma, X., ... & Zhang, D. (2023). Leading and Following: Noise Differently Affects Semantic and Acoustic Processing during Naturalistic Speech Comprehension. _NeuroImage, 282_, 120404. [Link](https://www.sciencedirect.com/science/article/pii/S1053811923005554)
 
