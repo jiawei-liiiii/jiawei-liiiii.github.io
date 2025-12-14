@@ -16,7 +16,7 @@ Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2y
 (#: co-first author, *: corresponding author)
 
 ## Preprints
-- **Li, J.**, Doerig, A., Cichy, R.M. (2025). Auditory representations of words during silent visual reading. _bioRxiv_.[Link](https://www.biorxiv.org/content/10.64898/2025.12.12.693932v1).
+- **Li, J.**, Doerig, A., Cichy, R.M. (2025). Auditory representations of words during silent visual reading. _bioRxiv_. [Link](https://www.biorxiv.org/content/10.64898/2025.12.12.693932v1).
 
 
 ## Peer-reviewed Articles
@@ -28,7 +28,7 @@ Please refer to my [CV](https://drive.google.com/file/d/18iz1S2W4efe8obw_5siLi2y
 
 - **Li, J.**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2022). Preparatory delta phase response is correlated with naturalistic speech comprehension performance. _Cognitive Neurodynamics, 16_(2), 337–352. [Link](https://link.springer.com/article/10.1007/s11571-021-09711-z)
 
-- Li, Z. #,**Li, J.#**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2021). Speaker-listener neural coupling reveals an adaptive mechanism for speech comprehension in a noisy environment. _Cerebral Cortex, 31_(10), 4719-4729.[Link](https://academic.oup.com/cercor/article/31/10/4719/6272649)
+- Li, Z. #,**Li, J.#**, Hong, B., Nolte, G., Engel, A. K., & Zhang, D.* (2021). Speaker-listener neural coupling reveals an adaptive mechanism for speech comprehension in a noisy environment. _Cerebral Cortex, 31_(10), 4719-4729. [Link](https://academic.oup.com/cercor/article/31/10/4719/6272649)
 
 - Ding, Y., Hu, X., **Li, J.**, Ye, J., Wang, F., & Zhang, D. (2018). What makes a champion: the behavioral and neural correlates of expertise in multiplayer online battle arena games. _International Journal of Human–Computer Interaction, 34_(8), 682-694. [Link](https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1461761)
 
