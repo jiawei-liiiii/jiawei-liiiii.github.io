@@ -8,7 +8,7 @@ I received my Ph.D. degree at the Department of Psychology, Tsinghua University 
 
 I am interested in language and its representations in the brain. To investigate it, I use both neuroscience experiments and computational models.
 
-Please refer to my [CV](https://drive.google.com/file/d/11XYPmxMvW7KIZspDW0lPgQwVddjCsnd8/view?usp=sharing) for further information.
+Please refer to my [CV](https://drive.google.com/file/d/1FMfm3RzEHe9IUdntGscx7l2BBLOICVvy/view?usp=sharing) for further information.
 
 
 # Publication
