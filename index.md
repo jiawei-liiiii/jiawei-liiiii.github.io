@@ -4,7 +4,7 @@ layout: default
 
 I am a post-doc at [Neural Dynamics of Visual Cognition lab](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/index.html), department of Education and Psychology, Freie Universität Berlin, Berlin, Germany. I am currently working with [Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/).
 
-I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.pcs.tsinghua.edu.cn/xlxen/info/1068/1096.htm). 
+I received my Ph.D. degree at the Department of Psychology, Tsinghua University in June 2022, collaborating with [Dan Zhang](https://www.pcs.tsinghua.edu.cn/xlxen/info/1009/1355.htm). 
 
 I am interested in language and its representations in the brain. To investigate it, I use both neuroscience experiments and computational models.
 
